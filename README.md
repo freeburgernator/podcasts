@@ -29,6 +29,6 @@ Headlong: Chasing Cops / Pineapple Street Media
 
 White Lies / NPR:
 - https://www.npr.org/podcasts/510343/white-lies
--https://open.spotify.com/show/12yZ2j8vxqhc0QZyRES3ft?si=iCnENuFdT4Oxy89BeWh19A
--https://podcasts.apple.com/us/podcast/white-lies/id1462650519
+- https://open.spotify.com/show/12yZ2j8vxqhc0QZyRES3ft?si=iCnENuFdT4Oxy89BeWh19A
+- https://podcasts.apple.com/us/podcast/white-lies/id1462650519
 -
