@@ -2,7 +2,6 @@
 A short site to list podcasts and other small things if needed.
 
 Themes:
-- Power
 - Justice and Mercy
 - Efficacy
 - Truth and Reality
