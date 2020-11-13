@@ -1,6 +1,12 @@
 # podcasts
 A short site to list podcasts and other small things if needed.
 
+Themes:
+- Power
+- Justice and Mercy
+- Efficacy
+- Truth and Reality
+
 Ones to add:
 
 Breaking Bongo
@@ -31,4 +37,8 @@ White Lies / NPR:
 - https://www.npr.org/podcasts/510343/white-lies
 - https://open.spotify.com/show/12yZ2j8vxqhc0QZyRES3ft?si=iCnENuFdT4Oxy89BeWh19A
 - https://podcasts.apple.com/us/podcast/white-lies/id1462650519
--
+
+
+Opioids, addiction and our troubled history with pain
+On Drugs / CBC
+https://www.cbc.ca/radio/ondrugs/opioids-addiction-and-our-troubled-history-with-pain-1.4188742
